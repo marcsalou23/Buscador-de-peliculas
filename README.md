@@ -1,4 +1,3 @@
-```markdown
 # Buscador de Películas
 
 Esta aplicación web es un buscador de películas desarrollado en React que te permite buscar información sobre tus películas favoritas. Puedes ingresar el nombre de la película en el campo de búsqueda y obtener resultados instantáneos. Además, la aplicación ofrece la opción de ordenar los resultados.
