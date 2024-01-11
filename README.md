@@ -15,7 +15,7 @@ Esta aplicación web es un buscador de películas desarrollado en React que te p
 1. Clona este repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/tuusuario/buscador-de-peliculas.git](https://github.com/marcsalou23/Buscador-de-peliculas/blob/main/README.md
+   git clone https://github.com/marcsalou23/Buscador-de-peliculas/blob/main/README.md
    cd buscador-de-peliculas
    ```
 
